@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XJAVT/tU2LpRxDjnXpeOZdKeaNpELchCz5/YK57brD4=",
+  "Source": "WeatherDashboard.API",
+  "BasePath": "_content/WeatherDashboard.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
