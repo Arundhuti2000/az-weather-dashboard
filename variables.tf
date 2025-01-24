@@ -11,4 +11,3 @@ variable "subscription_id" {}
 variable "weather_api_key" {
   type = string
 }
-

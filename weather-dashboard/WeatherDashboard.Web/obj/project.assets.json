@@ -7624,11 +7624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal Projects\\azure-weather-dashboard\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.Web\\WeatherDashboard.Web.csproj",
+      "projectUniqueName": "D:\\Personal Projects\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.Web\\WeatherDashboard.Web.csproj",
       "projectName": "WeatherDashboard.Web",
-      "projectPath": "D:\\Personal Projects\\azure-weather-dashboard\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.Web\\WeatherDashboard.Web.csproj",
+      "projectPath": "D:\\Personal Projects\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.Web\\WeatherDashboard.Web.csproj",
       "packagesPath": "C:\\Users\\arund\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal Projects\\azure-weather-dashboard\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.Web\\obj\\",
+      "outputPath": "D:\\Personal Projects\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7650,8 +7650,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Personal Projects\\azure-weather-dashboard\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.API\\WeatherDashboard.API.csproj": {
-              "projectPath": "D:\\Personal Projects\\azure-weather-dashboard\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.API\\WeatherDashboard.API.csproj"
+            "D:\\Personal Projects\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.API\\WeatherDashboard.API.csproj": {
+              "projectPath": "D:\\Personal Projects\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.API\\WeatherDashboard.API.csproj"
             }
           }
         }

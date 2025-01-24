@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eJ48it28UK8=",
+  "dgSpecHash": "rTWd3eEyBpA=",
   "success": true,
-  "projectFilePath": "D:\\Personal Projects\\azure-weather-dashboard\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.API\\WeatherDashboard.API.csproj",
+  "projectFilePath": "D:\\Personal Projects\\az-weather-dashboard\\weather-dashboard\\WeatherDashboard.API\\WeatherDashboard.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arund\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\arund\\.nuget\\packages\\azure.identity\\1.13.1\\azure.identity.1.13.1.nupkg.sha512",
